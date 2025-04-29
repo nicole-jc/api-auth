@@ -12,7 +12,7 @@ API RESTful construída com Laravel + Sanctum para registro, login, autenticaç�
 
 ## ⚙️ Ferramentas usadas
 
-  * PHP >= 8.2.12
+  * PHP 8.2.12
 
   * Composer
 
